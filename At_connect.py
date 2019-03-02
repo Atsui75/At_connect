@@ -8,7 +8,7 @@ VVp = '0.10003'
 
 print('python -m pip install dist/At_connect-',VVp,'-py3-none-any.whl')
 
-def apetecan():
+def apetecan_de_apetepore():
 	return
 
 def n(arr):
