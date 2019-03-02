@@ -6,10 +6,7 @@ import matplotlib.pyplot as plt
 
 VVp = '0.10003'
 
-print('python -m pip install dist/At_connect-',VVp,'-py3-none-any.whl')
-
-def apetecan_de_apetepore():
-	return
+print('python -m pip install dist/At_connect-'+VVp+'-py3-none-any.whl')
 
 def n(arr):
     return unumpy.nominal_values(arr)
