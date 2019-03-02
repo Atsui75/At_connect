@@ -4,7 +4,8 @@ from uncertainties import ufloat, unumpy, core
 import os 
 import matplotlib.pyplot as plt
 
-
+VVp = '0.10001'
+print(VVp)
 
 def n(arr):
     return unumpy.nominal_values(arr)
@@ -74,6 +75,8 @@ def turn(arr):
 		
 	return x	
 	
+def funfun():
+	return 'holaquetal'
 
 '''def formato(numero, incertez):
 	numero = float(numero)
