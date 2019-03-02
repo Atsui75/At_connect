@@ -4,7 +4,7 @@ from uncertainties import ufloat, unumpy, core
 import os 
 import matplotlib.pyplot as plt
 
-VVp = '0.10003'
+VVp = '0.10004'
 
 print('python -m pip install dist/At_connect-'+VVp+'-py3-none-any.whl')
 
