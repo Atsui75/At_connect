@@ -5,17 +5,12 @@ import os
 import matplotlib.pyplot as plt
 
 VVp = '0.10003'
-<<<<<<< HEAD
-=======
 
 print('python -m pip install dist/At_connect-',VVp,'-py3-none-any.whl')
 
 def apetecan():
 	return
->>>>>>> First commit
 
-print('python -m pip install dist/At_connect-',VVp,'-py3-none-any.whl')
-print('git commit "'+VVp+'"')
 def n(arr):
     return unumpy.nominal_values(arr)
 	
